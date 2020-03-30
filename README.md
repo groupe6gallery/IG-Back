@@ -1,2 +1,2 @@
-# valentin.moretpro-gmail.com
-IG-back
+# Image Gallery - Back *Team 6*
+
