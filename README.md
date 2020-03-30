@@ -1,2 +1,2 @@
-# Image Gallery - Back
-*Team 6*
+# IG-Back
+*Image Gallery - Team 6*
