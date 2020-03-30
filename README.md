@@ -1,2 +1,2 @@
-# Image Gallery - Back *Team 6*
-
+# Image Gallery - Back
+*Team 6*
